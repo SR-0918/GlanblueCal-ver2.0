@@ -70,7 +70,7 @@
   
   .menu-item-name {
     line-height: 1.7;
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 15px;
     color: #000000;
   }
@@ -99,7 +99,7 @@
   }
   
   .menu-item span {
-    font-size: 16px;
+    font-size: 18px;
   }
   
   input {
@@ -116,7 +116,7 @@
     display: inline-block;
     position: relative;
     top:330px;
-    right:420px;
+    right:150px;
     width: 200px;
     height: 48px;
     line-height: 48px;
@@ -133,7 +133,7 @@
   .copyright-index{
     position: relative;
     top:370px;
-    right: 460px;
+    right: 130px;
     padding-bottom: 10px;
     white-space: nowrap;
     color: #000000;
@@ -146,7 +146,7 @@
     background-color: #f8f8f8;
     line-height: 2;
     letter-spacing: 0.1em;
-    width: 800px;
+    width: 980px;
     margin: 60px auto;
     padding: 20px 0px 30px;
     border-radius: 5px;
@@ -207,7 +207,7 @@
   @media screen and (max-width: 378px) {
   .menu-item{
     float:left;
-    width:33%;
+    width:33.3%;
   }
 
   .menu-item-image {
@@ -260,6 +260,7 @@
     font-size: 24px;
   }
   /*confirm.php*/
+  
   .result-amount {
     width: 40%;
     padding-top: 25px;
